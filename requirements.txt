@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+pyyaml>=6.0
+scikit-learn>=1.4
+# for inference:
+torch>=2.2
+torchxrayvision>=1.2
+scikit-image>=0.22

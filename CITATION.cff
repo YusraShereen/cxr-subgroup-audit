@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it (and the arXiv paper once available)."
+title: "Chest X-ray Subgroup Audit"
+authors:
+  - family-names: "YOUR_LAST_NAME"
+    given-names: "YOUR_FIRST_NAME"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/04-cxr-subgroup-audit"
+license: MIT

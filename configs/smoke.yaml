@@ -1,0 +1,7 @@
+seed: 42
+out_dir: results/smoke
+labels: [Cardiomegaly, Edema, Pleural Effusion]
+attributes: [sex, age_bin, race]
+n_boot: 100
+min_group_n: 50
+synthetic: true
